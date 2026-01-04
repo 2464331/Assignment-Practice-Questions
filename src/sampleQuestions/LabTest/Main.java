@@ -1,4 +1,4 @@
-package LabTest;
+package sampleQuestions.LabTest;
 //
 //import java.util.*;
 //

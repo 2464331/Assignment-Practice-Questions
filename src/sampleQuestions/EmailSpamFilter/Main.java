@@ -1,4 +1,4 @@
-package EmailSpamFilter;
+package sampleQuestions.EmailSpamFilter;
 
 import java.util.*;
 

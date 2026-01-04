@@ -1,4 +1,4 @@
-package ThirdQuestion;
+package sampleQuestions1.ThirdQuestion;
 
 // Organizer class
 //class Organizer extends ParticipantInfo {

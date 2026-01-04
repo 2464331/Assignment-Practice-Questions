@@ -1,4 +1,4 @@
-package ThirdQuestion;
+package sampleQuestions1.ThirdQuestion;
 
 // Parent class
 //class ParticipantInfo {

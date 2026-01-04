@@ -1,4 +1,4 @@
-package ThirdQuestion;
+package sampleQuestions1.ThirdQuestion;
 
 //import java.util.*;
 //// Main class to test

@@ -1,4 +1,4 @@
-package ThirdQuestion;
+package sampleQuestions1.ThirdQuestion;
 
 // Attendee class
 //class Attendee extends ParticipantInfo {
